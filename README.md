@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-Test-Automatio;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-Test-Automatio;Passionate-About-Technology;Very-Ambitious;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - In my professional career, I've had the opportunity to work in a variety of roles, from Sales to Financial Accountant to Manager at my private work then I moved to the field of programming as a  Front-End Web Developer, Then I found that I'm more passionate about Software Testing and now I'm a Software Test Analyst.
