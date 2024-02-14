@@ -19,6 +19,9 @@ I'm always looking for new challenges and opportunities to grow my skill set and
 
 <a href="https://linkedin.com/in/ahmedelgebali/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elgebali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
+<a href="https://www.buymeacoffee.com/ahmedelgebali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 ###  &nbsp;Tech 
 ![Selenium WebDriver](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=1572B6)&nbsp;
