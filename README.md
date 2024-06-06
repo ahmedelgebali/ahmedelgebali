@@ -1,16 +1,16 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="400" />
 
-<h3 align="center">
+<h4 align="center">
   Welcome to Ahmed Elgebali's profile!
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> -->
-</h3>
+</h4>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-Test-Automation;Passionate-About-Technology;Very-Ambitious;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- In my professional career, I've had the opportunities to work in a variety of roles, from Sales to Financial Accountant to Manager at my private work then I moved to the field of programming as a  Front-End Web Developer, Then I found that I'm more passionate about Software Testing and now I'm a Software Test Analyst.
+- In my professional career, I've had the opportunities to work in a variety of roles, from Sales to Financial Accountant to Manager at my private work then I moved to the field of programming as a Front-End Web Developer, Then I found that I'm more passionate about Software Testing and now I'm a Software Test Analyst.
 My experience in these roles has enabled me to develop a strong set of skills in problem-solving, communication, and technical expertise. 
 I'm passionate about creating high-quality products that meet customer needs and strive to ensure that all aspects of software development are done with the utmost attention to detail. 
 I'm always looking for new challenges and opportunities to grow my skill set and contribute positively to any team or project.
