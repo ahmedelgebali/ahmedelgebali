@@ -11,9 +11,9 @@
 </p> 
 
 - In my professional career, I've had the opportunities to work in a variety of roles, from Sales to Financial Accountant to Manager at my private work then I moved to the field of programming as a Front-End Web Developer, Then I found that I'm more passionate about Software Testing and now I'm a Software Test Analyst.
-My experience in these roles has enabled me to develop a strong set of skills in problem-solving, communication, and technical expertise. 
+My experience in these roles has enabled me to develop strong skills in problem-solving, communication, and technical expertise. 
 I'm passionate about creating high-quality products that meet customer needs and strive to ensure that all aspects of software development are done with the utmost attention to detail. 
-I'm always looking for new challenges and opportunities to grow my skill set and contribute positively to any team or project.
+I always seek new challenges and opportunities to grow my skill set and contribute positively to any team or project.
 
 ### Connect with Me :
 
@@ -21,6 +21,7 @@ I'm always looking for new challenges and opportunities to grow my skill set and
 
 <a href="https://www.buymeacoffee.com/ahmedelgebali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<a href="mailto:elgebalia34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 
 ###  &nbsp;Tech 
 ![Selenium WebDriver](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
