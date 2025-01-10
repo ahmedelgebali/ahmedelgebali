@@ -4,11 +4,12 @@
   Hi there..! glad to see yah here🍿🍺
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> -->
 </h4>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-Test-Automation;Passionate-About-Technology;Very-Ambitious;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20QA%2C%20Manual%20%26%20Automation;Tech%20Enthusiast%2C%20a%20Detail-Oriented%20Mindset;Committed%20to%20Continuous%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</p>
 
 - In my professional career, I’ve had the opportunity to work in diverse roles, from Sales and Financial Accounting to Front-End Web Development. Ultimately, I discovered my true passion in Software QA and transitioned to become a Software Test Automation professional with over 2 years of hands-on experience.
 - My journey through these roles has equipped me with a unique perspective, honing my skills in problem-solving, communication, and technical expertise. I'm driven by the desire to create exceptional products that meet customer needs, ensuring every detail is meticulously tested and delivered. Continuously seeking growth, I thrive on taking on new challenges and contributing meaningfully to any team or project.  
